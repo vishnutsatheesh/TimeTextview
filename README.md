@@ -1,2 +1,2 @@
 # TimeTextview
-Simple Textview with current time acts like an analogue clock
+Simple Textview with current time acts like an digital clock
